@@ -1,1 +1,1 @@
-console.log("waht a nice day to write code")
+console.log("waht a nice day to write code>")
