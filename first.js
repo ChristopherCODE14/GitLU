@@ -1,3 +1,3 @@
 let arr = ['Hello', 'Friend']
 
-console.log(arr)
+console.log(arr + '.')
